@@ -1,4 +1,4 @@
-# Personal Website (Anmol Shrestha)
+# Personal Website (Sakshi MAharjan)
 
 This directory holds all the code used to generate my personal protfolio website.
 
