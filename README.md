@@ -1,4 +1,4 @@
-# Personal Website (Sakshi MAharjan)
+# Personal Website (Sakshi Maharjan)
 
 This directory holds all the code used to generate my personal protfolio website.
 
